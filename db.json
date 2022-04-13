@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Keshav Kumar",
+      "speciality": "medicine speciality",
+      "availibility": [
+        {
+          "10 AM - 10 : 20 AM": false
+        },
+        { "10 : 20 AM - 10 : 40 AM": false },
+        { "10 : 40 AM - 11 AM": false },
+        { "11 AM - 11 : 20 AM": false },
+        { "11 : 20 AM - 11 : 40 AM": false },
+        { "11 : 40 AM - 12 PM": false },
+        { "1 PM - 1 : 20 PM": false },
+        { "1 : 20 PM - 1 : 40 PM": false },
+        { "1 : 40 PM - 2 PM": false }
+      ],
+      "cost": "1000 rs"
+    },
+    {
+      "id": 2,
+      "name": "Sumit Mishra",
+      "speciality": "child speciality",
+      "availibility": [
+        {
+          "10 AM - 10 : 20 AM": false
+        },
+        { "10 : 20 AM - 10 : 40 AM": false },
+        { "10 : 40 AM - 11 AM": false },
+        { "11 AM - 11 : 20 AM": false },
+        { "11 : 20 AM - 11 : 40 AM": false },
+        { "11 : 40 AM - 12 PM": false },
+        { "1 PM - 1 : 20 PM": false },
+        { "1 : 20 PM - 1 : 40 PM": false },
+        { "1 : 40 PM - 2 PM": false }
+      ],
+      "cost": "2000 rs"
+    },
+    {
+      "id": 3,
+      "name": "Nikhil Tiwari",
+      "speciality": "sergery speciality",
+      "availibility": [
+        {
+          "10 AM - 10 : 20 AM": false
+        },
+        { "10 : 20 AM - 10 : 40 AM": false },
+        { "10 : 40 AM - 11 AM": false },
+        { "11 AM - 11 : 20 AM": false },
+        { "11 : 20 AM - 11 : 40 AM": false },
+        { "11 : 40 AM - 12 PM": false },
+        { "1 PM - 1 : 20 PM": false },
+        { "1 : 20 PM - 1 : 40 PM": false },
+        { "1 : 40 PM - 2 PM": false }
+      ],
+      "cost": "3000 rs"
+    }
+  ]
+}
